@@ -1,13 +1,16 @@
 # decktuner_tip_comparison
- A simple tool for decktuner members to insert recent tips and compare how much they'd make through various platforms. 
- 
+A simple tool for decktuner members to insert recent tips and compare how much they'd make through various platforms. 
+
+# Conclusion
+Depending on what sort of tips you get (frequent small tips vs infrequent large tips or middling tips), it may be better to use one platform or another. 
+
 # What to do
 1. Run the program ( either on your own python terminal, or here: https://www.online-python.com/ ). 
 2. Input each tip's USD dollar amounts one by one. Hit enter after each one. When you're done inputting, type 'done' and hit enter. Using non-numerical characters (such as $) may terminate the program early.
 3. ????
 4. Profit
 
-# About the Results
+# About the Output
 1. BuyMeACoffee results are assuming you have "cover credit card fees" unchecked and you are not donating any % to charity. Since the pilot/donator is paying the credit card fee, they are also paying the 1.5% international fee if applicable, and you are only paying the 5% BMAC fee. BMAC only supports Stripe (not PayPal). 
 2. Ko-Fi (Stripe) also assumes you are not donating any % to charity. Stripe's fee is 2.9% + 30¢. 
 4. Ko-Fi (PayPal) is based on the standard fee for receiving donations in United States Dollars (2.89% + 49¢). PayPal donation pricing is actually really complicated, and you may end up spending a decent amount more based on location.
